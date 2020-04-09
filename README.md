@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/AkiraKane/Deploy-ML-Microservices-K8S-Udacity.svg?style=svg)](https://circleci.com/gh/AkiraKane/Deploy-ML-Microservices-K8S-Udacity)
 
 ## Project Overview
 
