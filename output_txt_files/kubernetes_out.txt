@@ -1,0 +1,7 @@
+^C(.devops) Akiras-MacBook:project-ml-microservice-kubernetes akira$ ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "housingapp" already exists
+NAME         READY   STATUS    RESTARTS   AGE
+housingapp   1/1     Running   0          13m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
